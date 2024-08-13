@@ -19,11 +19,10 @@ Ram: RAM specification of the product (if applicable)
 Numerical Columns: Sale Price, Mrp, Discount Percentage, Number Of Ratings, Number Of Reviews, Star Rating
 Categorical Columns: Product Name, Product URL, Brand, Upc, Ram
 
-
-**Analysis Results **
+**Analysis Results**
 Product Pricing and Discounts
 Ratings and Reviews
 Statistical Distributions
 
-** Conclusion**
+ Conclusion
 Summarize key insights from the analysis, such as trends in pricing, the impact of discounts on ratings, or any notable differences between brands.

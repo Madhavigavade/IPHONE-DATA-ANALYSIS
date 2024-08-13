@@ -2,8 +2,7 @@
 This project involves analyzing product data to gain insights into pricing, discounts, ratings, and reviews. 
 The dataset includes information about products from various brands, including their sale prices, MRP, discount percentages, and user feedback.
 
-**DataSet
-Structure**
+**DataSet Structure**
 Product Name: Name of the product
 Product URL: URL to the product page
 Brand: Brand of the product
@@ -25,6 +24,6 @@ Categorical Columns: Product Name, Product URL, Brand, Upc, Ram
 Product Pricing and Discounts
 Ratings and Reviews
 Statistical Distributions
-** 
-Conclusion**
+
+** Conclusion**
 Summarize key insights from the analysis, such as trends in pricing, the impact of discounts on ratings, or any notable differences between brands.
